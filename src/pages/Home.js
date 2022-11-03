@@ -16,16 +16,20 @@ function Home() {
         <h1>Skills</h1>
         <ol className="list">
           <li className="item">
+            <h2>Languages</h2>
+            <span>JavaScript ⋅ Python ⋅ Java ⋅ C</span>
+          </li>
+          <li className="item">
             <h2>Front-End</h2>
-            <span>ReactJS, Angular</span>
+            <span>HTML/CSS ⋅ Angular ⋅ React ⋅ Bootstrap</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>Node.js</span>
+            <span>MongoDB ⋅ Node.js ⋅ Express ⋅ SQL ⋅ REST APIs</span>
           </li>
           <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Python, Java</span>
+            <h2>Analytics</h2>
+            <span>R ⋅ Excel ⋅ Databricks/Jupyter Notebook</span>
           </li>
         </ol>
       </div>
