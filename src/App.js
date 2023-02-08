@@ -2,6 +2,7 @@ import './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
 import Project from './pages/Projects';
+import React from 'react';
 import Experience from './pages/Experiences';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
