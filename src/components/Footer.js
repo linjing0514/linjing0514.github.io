@@ -13,7 +13,7 @@ function Footer() {
             <GitHubIcon onClick={event => window.location.href='https://github.com/linjing0514'}/>
             <LinkedInIcon onClick={event => window.location.href='https://www.linkedin.com/in/jing-lin-iced'}/>
         </div>
-        <p>&copy; 2022 website</p>
+        <p>&copy; 2021-2023</p>
     </div>
   )
 }

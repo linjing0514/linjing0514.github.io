@@ -17,19 +17,19 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript ⋅ Python ⋅ Java ⋅ C</span>
+            <span>JavaScript ⋅ Python ⋅ Java ⋅ C ⋅ Kotlin</span>
           </li>
           <li className="item">
             <h2>Front-End</h2>
-            <span>HTML/CSS ⋅ Angular ⋅ React ⋅ Bootstrap</span>
+            <span>HTML/CSS ⋅ Angular ⋅ React ⋅ Streamlit ⋅ Bootstrap</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>MongoDB ⋅ Node.js ⋅ Express ⋅ SQL ⋅ REST APIs</span>
+            <span>MongoDB ⋅ Node.js ⋅ Express ⋅ MySQL ⋅ REST APIs</span>
           </li>
           <li className="item">
             <h2>Analytics</h2>
-            <span>R ⋅ Excel ⋅ Databricks/Jupyter Notebook</span>
+            <span>Databricks/Jupyter Notebook ⋅ Pandas ⋅ PySpark ⋅ Plotly ⋅ R ⋅ Excel</span>
           </li>
         </ol>
       </div>
